@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.exe
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.deps.json
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.runtimeconfig.json
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.dll
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\bin\Debug\netcoreapp3.1\CalculadoraDIO.pdb
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.dll
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.pdb
+C:\Users\DELL\Desktop\dev\testes\CalculadoraDIO\CalculadoraDIO\obj\Debug\netcoreapp3.1\CalculadoraDIO.genruntimeconfig.cache
